@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beige Box Labs</title>
+    <!-- Pointing to the new transparent file -->
+    <link rel="icon" href="BBL_Logo_Trans.png">
+    <link rel="stylesheet" href="style.css?v=7">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.28.1/cytoscape.min.js"></script>
+</head>
+<body>
+    <div id="site-header">
+        <img src="BBL_Logo_Trans.png" alt="BBL Logo" id="site-logo">
+        <h1 id="site-title">Beige Box Labs</h1>
+    </div>
+    
+    <div id="cy"></div>
+    
+    <!-- Draggable Overlay HUD -->
+    <div class="floating-overlay" id="info-overlay">
+        <div class="sb-header" id="drag-handle">
+            <div class="close-btn" id="close-btn">✖</div>
+            <div class="placeholder-image"><img src="icons/mobo.png" style="width: 48px; filter: invert(1); opacity: 0.8;" alt="Mobo"></div>
+            <div class="sb-title" id="sb-title">Motherboard Name</div>
+            <div class="sb-subtitle">Intel Desktop Board</div>
+        </div>
+        <div class="sb-body">
+            <div class="data-row"><span class="data-label">Chipset</span><span class="data-val" id="val-chip">-</span></div>
+            <div class="data-row"><span class="data-label">Debut Year</span><span class="data-val" id="val-year">-</span></div>
+            <div class="data-row"><span class="data-label">Form Factor</span><span class="data-val" id="val-ff">-</span></div>
+            <div class="data-row"><span class="data-label">Socket</span><span class="data-val" id="val-sock">-</span></div>
+            <br>
+            <div class="data-row"><span class="data-label">AGP Slot</span><span class="data-val" id="val-agp">-</span></div>
+            <div class="data-row"><span class="data-label">Onboard Video</span><span class="data-val" id="val-vid">-</span></div>
+            <div class="data-row"><span class="data-label">Onboard Audio</span><span class="data-val" id="val-aud">-</span></div>
+            
+            <button class="btn" id="btn-details">OPEN DEEP SPECS & PHOTOS</button>
+        </div>
+    </div>
+
+    <script src="script.js?v=7"></script>
+</body>
+</html>

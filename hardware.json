@@ -1,0 +1,1966 @@
+﻿{
+    "edges":  [
+                  {
+                      "data":  {
+                                   "target":  "mb_batman",
+                                   "source":  "chip_430LXMercury",
+                                   "id":  "e_mb_batman_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_batman",
+                                   "source":  "year_1993",
+                                   "id":  "e_mb_batman_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket4",
+                                   "source":  "mb_batman",
+                                   "id":  "e_mb_batman_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_batman_rev",
+                                   "source":  "chip_430NXNeptune",
+                                   "id":  "e_mb_batman_rev_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_batman_rev",
+                                   "source":  "year_1994",
+                                   "id":  "e_mb_batman_rev_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket5",
+                                   "source":  "mb_batman_rev",
+                                   "id":  "e_mb_batman_rev_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_plato",
+                                   "source":  "chip_430NXNeptune",
+                                   "id":  "e_mb_plato_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_plato",
+                                   "source":  "year_1994",
+                                   "id":  "e_mb_plato_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket5",
+                                   "source":  "mb_plato",
+                                   "id":  "e_mb_plato_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_zappa",
+                                   "source":  "chip_430FXTritonI",
+                                   "id":  "e_mb_zappa_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_zappa",
+                                   "source":  "year_1995",
+                                   "id":  "e_mb_zappa_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket5",
+                                   "source":  "mb_zappa",
+                                   "id":  "e_mb_zappa_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_endeavor",
+                                   "source":  "chip_430FXTritonI",
+                                   "id":  "e_mb_endeavor_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_endeavor",
+                                   "source":  "year_1995",
+                                   "id":  "e_mb_endeavor_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket5",
+                                   "source":  "mb_endeavor",
+                                   "id":  "e_mb_endeavor_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_atlantis",
+                                   "source":  "chip_430FXTritonI",
+                                   "id":  "e_mb_atlantis_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_atlantis",
+                                   "source":  "year_1995",
+                                   "id":  "e_mb_atlantis_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_atlantis",
+                                   "id":  "e_mb_atlantis_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_marl",
+                                   "source":  "chip_430HXTritonII",
+                                   "id":  "e_mb_marl_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_marl",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_marl_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_marl",
+                                   "id":  "e_mb_marl_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_rhinestone",
+                                   "source":  "chip_430HXTritonII",
+                                   "id":  "e_mb_rhinestone_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_rhinestone",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_rhinestone_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_rhinestone",
+                                   "id":  "e_mb_rhinestone_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_ruby",
+                                   "source":  "chip_430HXTritonII",
+                                   "id":  "e_mb_ruby_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_ruby",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_ruby_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_ruby",
+                                   "id":  "e_mb_ruby_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_agate",
+                                   "source":  "chip_430HXTritonII",
+                                   "id":  "e_mb_agate_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_agate",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_agate_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_agate",
+                                   "id":  "e_mb_agate_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_cumberland",
+                                   "source":  "chip_430HXTritonII",
+                                   "id":  "e_mb_cumberland_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_cumberland",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_cumberland_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_DualSocket7",
+                                   "source":  "mb_cumberland",
+                                   "id":  "e_mb_cumberland_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_newport",
+                                   "source":  "chip_430HXTritonII",
+                                   "id":  "e_mb_newport_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_newport",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_newport_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_DualSocket7",
+                                   "source":  "mb_newport",
+                                   "id":  "e_mb_newport_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_tucson",
+                                   "source":  "chip_430HXTritonII",
+                                   "id":  "e_mb_tucson_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_tucson",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_tucson_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_tucson",
+                                   "id":  "e_mb_tucson_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_orlando",
+                                   "source":  "chip_430VXTritonVX",
+                                   "id":  "e_mb_orlando_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_orlando",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_orlando_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_orlando",
+                                   "id":  "e_mb_orlando_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_venus",
+                                   "source":  "chip_440FXNatoma",
+                                   "id":  "e_mb_venus_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_venus",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_venus_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket8",
+                                   "source":  "mb_venus",
+                                   "id":  "e_mb_venus_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_providence",
+                                   "source":  "chip_440FXNatoma",
+                                   "id":  "e_mb_providence_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_providence",
+                                   "source":  "year_1996",
+                                   "id":  "e_mb_providence_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_DualSocket8",
+                                   "source":  "mb_providence",
+                                   "id":  "e_mb_providence_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_anchorage",
+                                   "source":  "chip_430TXTritonTX",
+                                   "id":  "e_mb_anchorage_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_anchorage",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_anchorage_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket7",
+                                   "source":  "mb_anchorage",
+                                   "id":  "e_mb_anchorage_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_atlanta",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_atlanta_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_atlanta",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_atlanta_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_atlanta",
+                                   "id":  "e_mb_atlanta_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_dakota",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_dakota_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_dakota",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_dakota_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_DualSlot1SC242",
+                                   "source":  "mb_dakota",
+                                   "id":  "e_mb_dakota_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_reno",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_reno_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_reno",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_reno_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_reno",
+                                   "id":  "e_mb_reno_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_livermore",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_livermore_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_livermore",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_livermore_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_livermore",
+                                   "id":  "e_mb_livermore_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_rockaway",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_rockaway_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_rockaway",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_rockaway_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_rockaway",
+                                   "id":  "e_mb_rockaway_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_redwood",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_redwood_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_redwood",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_redwood_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_DualSlot1SC242",
+                                   "source":  "mb_redwood",
+                                   "id":  "e_mb_redwood_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_madrona",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_madrona_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_madrona",
+                                   "source":  "year_1997",
+                                   "id":  "e_mb_madrona_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_DualSlot1SC242",
+                                   "source":  "mb_madrona",
+                                   "id":  "e_mb_madrona_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_oceania",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_oceania_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_oceania",
+                                   "source":  "year_1998",
+                                   "id":  "e_mb_oceania_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_oceania",
+                                   "id":  "e_mb_oceania_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_maui",
+                                   "source":  "chip_440LXBalboa",
+                                   "id":  "e_mb_maui_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_maui",
+                                   "source":  "year_1998",
+                                   "id":  "e_mb_maui_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_maui",
+                                   "id":  "e_mb_maui_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_seattle",
+                                   "source":  "chip_440BXSeattle",
+                                   "id":  "e_mb_seattle_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_seattle",
+                                   "source":  "year_1998",
+                                   "id":  "e_mb_seattle_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_seattle",
+                                   "id":  "e_mb_seattle_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_seattle2",
+                                   "source":  "chip_440BXSeattle",
+                                   "id":  "e_mb_seattle2_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_seattle2",
+                                   "source":  "year_1998",
+                                   "id":  "e_mb_seattle2_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_seattle2",
+                                   "id":  "e_mb_seattle2_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_seattle3",
+                                   "source":  "chip_440BXSeattle",
+                                   "id":  "e_mb_seattle3_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_seattle3",
+                                   "source":  "year_1998",
+                                   "id":  "e_mb_seattle3_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_seattle3",
+                                   "id":  "e_mb_seattle3_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_nightshade",
+                                   "source":  "chip_440BXSeattle",
+                                   "id":  "e_mb_nightshade_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_nightshade",
+                                   "source":  "year_1998",
+                                   "id":  "e_mb_nightshade_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_nightshade",
+                                   "id":  "e_mb_nightshade_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_ca810",
+                                   "source":  "chip_810Whitney",
+                                   "id":  "e_mb_ca810_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_ca810",
+                                   "source":  "year_1999",
+                                   "id":  "e_mb_ca810_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket370",
+                                   "source":  "mb_ca810",
+                                   "id":  "e_mb_ca810_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_ca810e",
+                                   "source":  "chip_810EWhitney",
+                                   "id":  "e_mb_ca810e_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_ca810e",
+                                   "source":  "year_1999",
+                                   "id":  "e_mb_ca810e_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket370",
+                                   "source":  "mb_ca810e",
+                                   "id":  "e_mb_ca810e_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_vc820",
+                                   "source":  "chip_820Camino",
+                                   "id":  "e_mb_vc820_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_vc820",
+                                   "source":  "year_1999",
+                                   "id":  "e_mb_vc820_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_vc820",
+                                   "id":  "e_mb_vc820_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_cc820",
+                                   "source":  "chip_820Camino",
+                                   "id":  "e_mb_cc820_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_cc820",
+                                   "source":  "year_1999",
+                                   "id":  "e_mb_cc820_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Slot1SC242",
+                                   "source":  "mb_cc820",
+                                   "id":  "e_mb_cc820_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d815eea",
+                                   "source":  "chip_815ESolano",
+                                   "id":  "e_mb_d815eea_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d815eea",
+                                   "source":  "year_2000",
+                                   "id":  "e_mb_d815eea_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket370",
+                                   "source":  "mb_d815eea",
+                                   "id":  "e_mb_d815eea_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d850gb",
+                                   "source":  "chip_850Tehama",
+                                   "id":  "e_mb_d850gb_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d850gb",
+                                   "source":  "year_2000",
+                                   "id":  "e_mb_d850gb_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket423",
+                                   "source":  "mb_d850gb",
+                                   "id":  "e_mb_d850gb_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d850mv",
+                                   "source":  "chip_850Tehama",
+                                   "id":  "e_mb_d850mv_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d850mv",
+                                   "source":  "year_2001",
+                                   "id":  "e_mb_d850mv_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket478",
+                                   "source":  "mb_d850mv",
+                                   "id":  "e_mb_d850mv_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845wn",
+                                   "source":  "chip_845Brookdale",
+                                   "id":  "e_mb_d845wn_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845wn",
+                                   "source":  "year_2001",
+                                   "id":  "e_mb_d845wn_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket478",
+                                   "source":  "mb_d845wn",
+                                   "id":  "e_mb_d845wn_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845bg",
+                                   "source":  "chip_845Brookdale",
+                                   "id":  "e_mb_d845bg_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845bg",
+                                   "source":  "year_2001",
+                                   "id":  "e_mb_d845bg_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket478",
+                                   "source":  "mb_d845bg",
+                                   "id":  "e_mb_d845bg_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845pesv",
+                                   "source":  "chip_845PEBrookdalePE",
+                                   "id":  "e_mb_d845pesv_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845pesv",
+                                   "source":  "year_2002",
+                                   "id":  "e_mb_d845pesv_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket478",
+                                   "source":  "mb_d845pesv",
+                                   "id":  "e_mb_d845pesv_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845gebv2",
+                                   "source":  "chip_845GEBrookdaleGE",
+                                   "id":  "e_mb_d845gebv2_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d845gebv2",
+                                   "source":  "year_2002",
+                                   "id":  "e_mb_d845gebv2_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket478",
+                                   "source":  "mb_d845gebv2",
+                                   "id":  "e_mb_d845gebv2_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d865perl",
+                                   "source":  "chip_865PESpringdale",
+                                   "id":  "e_mb_d865perl_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d865perl",
+                                   "source":  "year_2003",
+                                   "id":  "e_mb_d865perl_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket478",
+                                   "source":  "mb_d865perl",
+                                   "id":  "e_mb_d865perl_s"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d875pbz",
+                                   "source":  "chip_875PCanterwood",
+                                   "id":  "e_mb_d875pbz_c"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "mb_d875pbz",
+                                   "source":  "year_2003",
+                                   "id":  "e_mb_d875pbz_y"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "target":  "sock_Socket478",
+                                   "source":  "mb_d875pbz",
+                                   "id":  "e_mb_d875pbz_s"
+                               }
+                  }
+              ],
+    "nodes":  [
+                  {
+                      "data":  {
+                                   "year":  "1993",
+                                   "aud":  "",
+                                   "id":  "mb_batman",
+                                   "type":  "motherboard",
+                                   "row":  0,
+                                   "vid":  "",
+                                   "name":  "Premiere/PCI \"Batman\"",
+                                   "col":  2,
+                                   "chip":  "430LX \"Mercury\"",
+                                   "sock":  "Socket 4",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1994",
+                                   "aud":  "",
+                                   "id":  "mb_batman_rev",
+                                   "type":  "motherboard",
+                                   "row":  1,
+                                   "vid":  "",
+                                   "name":  "Premiere/PCI II \"Batman Revenge\"",
+                                   "col":  2,
+                                   "chip":  "430NX \"Neptune\"",
+                                   "sock":  "Socket 5",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1994",
+                                   "aud":  "",
+                                   "id":  "mb_plato",
+                                   "type":  "motherboard",
+                                   "row":  2,
+                                   "vid":  "",
+                                   "name":  "Plato",
+                                   "col":  2,
+                                   "chip":  "430NX \"Neptune\"",
+                                   "sock":  "Socket 5",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1995",
+                                   "aud":  "",
+                                   "id":  "mb_zappa",
+                                   "type":  "motherboard",
+                                   "row":  3,
+                                   "vid":  "",
+                                   "name":  "Advanced/ZP \"Zappa\"",
+                                   "col":  2,
+                                   "chip":  "430FX \"Triton I\"",
+                                   "sock":  "Socket 5",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1995",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_endeavor",
+                                   "type":  "motherboard",
+                                   "row":  4,
+                                   "vid":  "",
+                                   "name":  "Advanced/EV \"Endeavor\"",
+                                   "col":  2,
+                                   "chip":  "430FX \"Triton I\"",
+                                   "sock":  "Socket 5",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1995",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_atlantis",
+                                   "type":  "motherboard",
+                                   "row":  5,
+                                   "vid":  "Onboard Video",
+                                   "name":  "Advanced/AS \"Atlantis\"",
+                                   "col":  2,
+                                   "chip":  "430FX \"Triton I\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "",
+                                   "id":  "mb_marl",
+                                   "type":  "motherboard",
+                                   "row":  6,
+                                   "vid":  "",
+                                   "name":  "Advanced/ML \"Marl\"",
+                                   "col":  2,
+                                   "chip":  "430HX \"Triton II\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "",
+                                   "id":  "mb_rhinestone",
+                                   "type":  "motherboard",
+                                   "row":  7,
+                                   "vid":  "Onboard Video",
+                                   "name":  "Advanced/RH \"Rhinestone\"",
+                                   "col":  2,
+                                   "chip":  "430HX \"Triton II\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "Optional Onboard Audio",
+                                   "id":  "mb_ruby",
+                                   "type":  "motherboard",
+                                   "row":  8,
+                                   "vid":  "Optional Onboard Video",
+                                   "name":  "Advanced/RU \"Ruby\"",
+                                   "col":  2,
+                                   "chip":  "430HX \"Triton II\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "",
+                                   "id":  "mb_agate",
+                                   "type":  "motherboard",
+                                   "row":  9,
+                                   "vid":  "",
+                                   "name":  "AG430HX \"Agate\"",
+                                   "col":  2,
+                                   "chip":  "430HX \"Triton II\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_cumberland",
+                                   "type":  "motherboard",
+                                   "row":  10,
+                                   "vid":  "Onboard Video",
+                                   "name":  "CU430HX \"Cumberland\"",
+                                   "col":  2,
+                                   "chip":  "430HX \"Triton II\"",
+                                   "sock":  "Dual Socket 7",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "",
+                                   "id":  "mb_newport",
+                                   "type":  "motherboard",
+                                   "row":  11,
+                                   "vid":  "",
+                                   "name":  "NP430HX \"Newport\"",
+                                   "col":  2,
+                                   "chip":  "430HX \"Triton II\"",
+                                   "sock":  "Dual Socket 7",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_tucson",
+                                   "type":  "motherboard",
+                                   "row":  12,
+                                   "vid":  "Optional Onboard Video",
+                                   "name":  "TC430HX \"Tucson\"",
+                                   "col":  2,
+                                   "chip":  "430HX \"Triton II\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "Optional Onboard Audio",
+                                   "id":  "mb_orlando",
+                                   "type":  "motherboard",
+                                   "row":  13,
+                                   "vid":  "",
+                                   "name":  "NV430VX \"Orlando\"",
+                                   "col":  2,
+                                   "chip":  "430VX \"Triton VX\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "Baby AT",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "Optional Onboard Audio",
+                                   "id":  "mb_venus",
+                                   "type":  "motherboard",
+                                   "row":  14,
+                                   "vid":  "",
+                                   "name":  "VS440FX \"Venus\"",
+                                   "col":  2,
+                                   "chip":  "440FX \"Natoma\"",
+                                   "sock":  "Socket 8",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1996",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_providence",
+                                   "type":  "motherboard",
+                                   "row":  15,
+                                   "vid":  "Onboard Video",
+                                   "name":  "PR440FX \"Providence\"",
+                                   "col":  2,
+                                   "chip":  "440FX \"Natoma\"",
+                                   "sock":  "Dual Socket 8",
+                                   "ff":  "Extended ATX (E-ATX)",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "Optional Onboard Audio",
+                                   "id":  "mb_anchorage",
+                                   "type":  "motherboard",
+                                   "row":  16,
+                                   "vid":  "",
+                                   "name":  "AN430TX \"Anchorage\"",
+                                   "col":  2,
+                                   "chip":  "430TX \"Triton TX\"",
+                                   "sock":  "Socket 7",
+                                   "ff":  "ATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_atlanta",
+                                   "type":  "motherboard",
+                                   "row":  17,
+                                   "vid":  "",
+                                   "name":  "AL440LX \"Atlanta\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "",
+                                   "id":  "mb_dakota",
+                                   "type":  "motherboard",
+                                   "row":  18,
+                                   "vid":  "",
+                                   "name":  "DK440LX \"Dakota\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Dual Slot 1 (SC242)",
+                                   "ff":  "Extended ATX (E-ATX)",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_reno",
+                                   "type":  "motherboard",
+                                   "row":  19,
+                                   "vid":  "Onboard Video",
+                                   "name":  "RC440LX \"Reno\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "MicroATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_livermore",
+                                   "type":  "motherboard",
+                                   "row":  20,
+                                   "vid":  "",
+                                   "name":  "LM440LX \"Livermore\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "NLX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_rockaway",
+                                   "type":  "motherboard",
+                                   "row":  21,
+                                   "vid":  "",
+                                   "name":  "NX440LX \"Rockaway\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "NLX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "Optional Onboard Audio",
+                                   "id":  "mb_redwood",
+                                   "type":  "motherboard",
+                                   "row":  22,
+                                   "vid":  "",
+                                   "name":  "R440LX DP \"Redwood\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Dual Slot 1 (SC242)",
+                                   "ff":  "Extended ATX (E-ATX)",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1997",
+                                   "aud":  "",
+                                   "id":  "mb_madrona",
+                                   "type":  "motherboard",
+                                   "row":  23,
+                                   "vid":  "",
+                                   "name":  "M440LX \"Madrona\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Dual Slot 1 (SC242)",
+                                   "ff":  "Extended ATX (E-ATX)",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1998",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_oceania",
+                                   "type":  "motherboard",
+                                   "row":  24,
+                                   "vid":  "",
+                                   "name":  "OC440LX \"Oceania\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "MicroATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1998",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_maui",
+                                   "type":  "motherboard",
+                                   "row":  25,
+                                   "vid":  "",
+                                   "name":  "MU440LX \"Maui\"",
+                                   "col":  2,
+                                   "chip":  "440LX \"Balboa\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "MicroATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1998",
+                                   "aud":  "",
+                                   "id":  "mb_seattle",
+                                   "type":  "motherboard",
+                                   "row":  26,
+                                   "vid":  "",
+                                   "name":  "SE440BX \"Seattle\"",
+                                   "col":  2,
+                                   "chip":  "440BX \"Seattle\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1998",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_seattle2",
+                                   "type":  "motherboard",
+                                   "row":  27,
+                                   "vid":  "",
+                                   "name":  "SE440BX-2 \"Seattle II\"",
+                                   "col":  2,
+                                   "chip":  "440BX \"Seattle\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1998",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_seattle3",
+                                   "type":  "motherboard",
+                                   "row":  28,
+                                   "vid":  "",
+                                   "name":  "SE440BX-3 \"Seattle III\"",
+                                   "col":  2,
+                                   "chip":  "440BX \"Seattle\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1998",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_nightshade",
+                                   "type":  "motherboard",
+                                   "row":  29,
+                                   "vid":  "Onboard Video",
+                                   "name":  "RC440BX \"Nightshade\"",
+                                   "col":  2,
+                                   "chip":  "440BX \"Seattle\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "MicroATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1999",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_ca810",
+                                   "type":  "motherboard",
+                                   "row":  30,
+                                   "vid":  "Onboard Video",
+                                   "name":  "CA810 \"Cape Cod\"",
+                                   "col":  2,
+                                   "chip":  "810 \"Whitney\"",
+                                   "sock":  "Socket 370",
+                                   "ff":  "MicroATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1999",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_ca810e",
+                                   "type":  "motherboard",
+                                   "row":  31,
+                                   "vid":  "Onboard Video",
+                                   "name":  "CA810E \"Cape Cod\"",
+                                   "col":  2,
+                                   "chip":  "810E \"Whitney\"",
+                                   "sock":  "Socket 370",
+                                   "ff":  "MicroATX",
+                                   "agp":  false
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1999",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_vc820",
+                                   "type":  "motherboard",
+                                   "row":  32,
+                                   "vid":  "",
+                                   "name":  "VC820 \"Vancouver\"",
+                                   "col":  2,
+                                   "chip":  "820 \"Camino\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "1999",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_cc820",
+                                   "type":  "motherboard",
+                                   "row":  33,
+                                   "vid":  "",
+                                   "name":  "CC820 \"Cape Carmel\"",
+                                   "col":  2,
+                                   "chip":  "820 \"Camino\"",
+                                   "sock":  "Slot 1 (SC242)",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2000",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d815eea",
+                                   "type":  "motherboard",
+                                   "row":  34,
+                                   "vid":  "Onboard Video",
+                                   "name":  "D815EEA \"Easton\"",
+                                   "col":  2,
+                                   "chip":  "815E \"Solano\"",
+                                   "sock":  "Socket 370",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2000",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d850gb",
+                                   "type":  "motherboard",
+                                   "row":  35,
+                                   "vid":  "",
+                                   "name":  "D850GB \"Garibaldi\"",
+                                   "col":  2,
+                                   "chip":  "850 \"Tehama\"",
+                                   "sock":  "Socket 423",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2001",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d850mv",
+                                   "type":  "motherboard",
+                                   "row":  36,
+                                   "vid":  "",
+                                   "name":  "D850MV \"Maximus\"",
+                                   "col":  2,
+                                   "chip":  "850 \"Tehama\"",
+                                   "sock":  "Socket 478",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2001",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d845wn",
+                                   "type":  "motherboard",
+                                   "row":  37,
+                                   "vid":  "",
+                                   "name":  "D845WN \"Warren\"",
+                                   "col":  2,
+                                   "chip":  "845 \"Brookdale\"",
+                                   "sock":  "Socket 478",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2001",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d845bg",
+                                   "type":  "motherboard",
+                                   "row":  38,
+                                   "vid":  "",
+                                   "name":  "D845BG \"Brookdale\"",
+                                   "col":  2,
+                                   "chip":  "845 \"Brookdale\"",
+                                   "sock":  "Socket 478",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2002",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d845pesv",
+                                   "type":  "motherboard",
+                                   "row":  39,
+                                   "vid":  "",
+                                   "name":  "D845PESV \"Seville\"",
+                                   "col":  2,
+                                   "chip":  "845PE \"Brookdale-PE\"",
+                                   "sock":  "Socket 478",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2002",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d845gebv2",
+                                   "type":  "motherboard",
+                                   "row":  40,
+                                   "vid":  "Onboard Video",
+                                   "name":  "D845GEBV2 \"Blue Valley\"",
+                                   "col":  2,
+                                   "chip":  "845GE \"Brookdale-GE\"",
+                                   "sock":  "Socket 478",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2003",
+                                   "aud":  "Onboard Audio",
+                                   "id":  "mb_d865perl",
+                                   "type":  "motherboard",
+                                   "row":  41,
+                                   "vid":  "",
+                                   "name":  "D865PERL \"Pearly Beach\"",
+                                   "col":  2,
+                                   "chip":  "865PE \"Springdale\"",
+                                   "sock":  "Socket 478",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "year":  "2003",
+                                   "aud":  "",
+                                   "id":  "mb_d875pbz",
+                                   "type":  "motherboard",
+                                   "row":  42,
+                                   "vid":  "",
+                                   "name":  "D875PBZ \"Bonanza\"",
+                                   "col":  2,
+                                   "chip":  "875P \"Canterwood\"",
+                                   "sock":  "Socket 478",
+                                   "ff":  "ATX",
+                                   "agp":  true
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  1,
+                                   "col":  0,
+                                   "name":  "430NX \"Neptune\"",
+                                   "id":  "chip_430NXNeptune",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  34,
+                                   "col":  0,
+                                   "name":  "815E \"Solano\"",
+                                   "id":  "chip_815ESolano",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  26,
+                                   "col":  0,
+                                   "name":  "440BX \"Seattle\"",
+                                   "id":  "chip_440BXSeattle",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  41,
+                                   "col":  0,
+                                   "name":  "865PE \"Springdale\"",
+                                   "id":  "chip_865PESpringdale",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  37,
+                                   "col":  0,
+                                   "name":  "845 \"Brookdale\"",
+                                   "id":  "chip_845Brookdale",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  35,
+                                   "col":  0,
+                                   "name":  "850 \"Tehama\"",
+                                   "id":  "chip_850Tehama",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  16,
+                                   "col":  0,
+                                   "name":  "430TX \"Triton TX\"",
+                                   "id":  "chip_430TXTritonTX",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  0,
+                                   "col":  0,
+                                   "name":  "430LX \"Mercury\"",
+                                   "id":  "chip_430LXMercury",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  6,
+                                   "col":  0,
+                                   "name":  "430HX \"Triton II\"",
+                                   "id":  "chip_430HXTritonII",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  31,
+                                   "col":  0,
+                                   "name":  "810E \"Whitney\"",
+                                   "id":  "chip_810EWhitney",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  14,
+                                   "col":  0,
+                                   "name":  "440FX \"Natoma\"",
+                                   "id":  "chip_440FXNatoma",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  42,
+                                   "col":  0,
+                                   "name":  "875P \"Canterwood\"",
+                                   "id":  "chip_875PCanterwood",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  40,
+                                   "col":  0,
+                                   "name":  "845GE \"Brookdale-GE\"",
+                                   "id":  "chip_845GEBrookdaleGE",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  17,
+                                   "col":  0,
+                                   "name":  "440LX \"Balboa\"",
+                                   "id":  "chip_440LXBalboa",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  32,
+                                   "col":  0,
+                                   "name":  "820 \"Camino\"",
+                                   "id":  "chip_820Camino",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  39,
+                                   "col":  0,
+                                   "name":  "845PE \"Brookdale-PE\"",
+                                   "id":  "chip_845PEBrookdalePE",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  3,
+                                   "col":  0,
+                                   "name":  "430FX \"Triton I\"",
+                                   "id":  "chip_430FXTritonI",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  13,
+                                   "col":  0,
+                                   "name":  "430VX \"Triton VX\"",
+                                   "id":  "chip_430VXTritonVX",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  30,
+                                   "col":  0,
+                                   "name":  "810 \"Whitney\"",
+                                   "id":  "chip_810Whitney",
+                                   "type":  "chipset"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  1,
+                                   "col":  1,
+                                   "name":  "1994",
+                                   "id":  "year_1994",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  6,
+                                   "col":  1,
+                                   "name":  "1996",
+                                   "id":  "year_1996",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  3,
+                                   "col":  1,
+                                   "name":  "1995",
+                                   "id":  "year_1995",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  24,
+                                   "col":  1,
+                                   "name":  "1998",
+                                   "id":  "year_1998",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  39,
+                                   "col":  1,
+                                   "name":  "2002",
+                                   "id":  "year_2002",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  36,
+                                   "col":  1,
+                                   "name":  "2001",
+                                   "id":  "year_2001",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  34,
+                                   "col":  1,
+                                   "name":  "2000",
+                                   "id":  "year_2000",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  0,
+                                   "col":  1,
+                                   "name":  "1993",
+                                   "id":  "year_1993",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  41,
+                                   "col":  1,
+                                   "name":  "2003",
+                                   "id":  "year_2003",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  16,
+                                   "col":  1,
+                                   "name":  "1997",
+                                   "id":  "year_1997",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  30,
+                                   "col":  1,
+                                   "name":  "1999",
+                                   "id":  "year_1999",
+                                   "type":  "year"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  0,
+                                   "col":  3,
+                                   "name":  "Socket 4",
+                                   "id":  "sock_Socket4",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  8,
+                                   "col":  3,
+                                   "name":  "Socket 7",
+                                   "id":  "sock_Socket7",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  4,
+                                   "col":  3,
+                                   "name":  "Socket 5",
+                                   "id":  "sock_Socket5",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  38,
+                                   "col":  3,
+                                   "name":  "Socket 423",
+                                   "id":  "sock_Socket423",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  21,
+                                   "col":  3,
+                                   "name":  "Dual Socket 8",
+                                   "id":  "sock_DualSocket8",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  34,
+                                   "col":  3,
+                                   "name":  "Socket 370",
+                                   "id":  "sock_Socket370",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  13,
+                                   "col":  3,
+                                   "name":  "Dual Socket 7",
+                                   "id":  "sock_DualSocket7",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  17,
+                                   "col":  3,
+                                   "name":  "Socket 8",
+                                   "id":  "sock_Socket8",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  42,
+                                   "col":  3,
+                                   "name":  "Socket 478",
+                                   "id":  "sock_Socket478",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  25,
+                                   "col":  3,
+                                   "name":  "Slot 1 (SC242)",
+                                   "id":  "sock_Slot1SC242",
+                                   "type":  "socket"
+                               }
+                  },
+                  {
+                      "data":  {
+                                   "row":  29,
+                                   "col":  3,
+                                   "name":  "Dual Slot 1 (SC242)",
+                                   "id":  "sock_DualSlot1SC242",
+                                   "type":  "socket"
+                               }
+                  }
+              ]
+}
